@@ -1,0 +1,33 @@
+﻿konu,veri_sayisi,mae,mse,r2,tahmin_2026,model_dosyasi
+Ardışık Sayılar,9,0.071,0.01,0.0,0,ardisik_sayilar.pkl
+Asal Sayılar,9,0.196,0.041,0.0,0,asal_sayilar.pkl
+Basit Eşitsizlikler,9,0.768,0.592,0.0,2,basit_esitsizlikler.pkl
+Bölme ve Bölünebilme,9,0.161,0.026,0.0,1,bolme_ve_bolunebilme.pkl
+Denklem Çözme,9,0.804,0.654,0.0,1,denklem_cozme.pkl
+Faktöriyel,9,0.179,0.033,0.0,1,faktoriyel.pkl
+Fonsiyonlar,9,0.964,0.941,0.0,0,fonsiyonlar.pkl
+Grafik ve tablolar,9,0.25,0.094,0.0,0,grafik_ve_tablolar.pkl
+Hareket & Hız Problemleri,9,0.304,0.092,0.0,1,hareket_hiz_problemleri.pkl
+Karışım Problemleri,9,0.179,0.033,0.0,0,karisim_problemleri.pkl
+Köklü Sayılar,9,0.107,0.013,0.0,1,koklu_sayilar.pkl
+Kümeler,9,0.429,0.184,0.0,1,kumeler.pkl
+Mutlak Değer,9,0.304,0.092,0.0,1,mutlak_deger.pkl
+OBEB-OKEK,9,0.0,0.0,1.0,0,obeb_okek.pkl
+Olasılık,9,0.464,0.217,0.0,1,olasilik.pkl
+Oran-Orantı,9,0.161,0.026,0.0,0,oran_oranti.pkl
+Permütasyon ve Kombinasyon,9,0.5,0.5,-1.0,1,permutasyon_ve_kombinasyon.pkl
+Rasyonel Sayılar,9,0.893,0.798,0.0,1,rasyonel_sayilar.pkl
+Saat-Gün Problemleri,9,0.875,0.766,0.0,0,saat_gun_problemleri.pkl
+Sayı Basamakları,9,0.732,0.735,-1.941,3,sayi_basamaklari.pkl
+Sayı Dizileri,9,0.518,0.276,0.0,0,sayi_dizileri.pkl
+Sayı ve Kesir Problemleri,9,2.036,4.156,-15.622,2,sayi_ve_kesir_problemleri.pkl
+Sayısal Mantık,9,1.964,4.227,-0.057,15,sayisal_mantik.pkl
+TOPLAM,9,0.893,1.594,0.0,40,toplam.pkl
+Tablo – Grafik Problemleri,9,0.786,0.745,-1.98,3,tablo_grafik_problemleri.pkl
+Temel Kavramlar,9,0.821,0.686,0.0,2,temel_kavramlar.pkl
+Yaş Problemleri,9,0.0,0.0,1.0,1,yas_problemleri.pkl
+Yüzde & Kar – Zarar Problemleri,9,1.429,2.776,-1.776,3,yuzde_kar_zarar_problemleri.pkl
+Çarpanlara Ayırma,9,0.375,0.143,0.0,0,carpanlara_ayirma.pkl
+Üslü Sayılar,9,0.286,0.082,0.0,2,uslu_sayilar.pkl
+İşlem ve Modüler Aritmetik,9,1.571,2.469,0.0,0,i_slem_ve_moduler_aritmetik.pkl
+İşçi-Havuz Problemleri,9,0.339,0.118,0.0,0,i_sci_havuz_problemleri.pkl

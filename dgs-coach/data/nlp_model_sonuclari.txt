@@ -1,0 +1,78 @@
+DGS Koçu NLP Model Sonuçları
+========================================
+
+Toplam temiz veri sayısı: 935
+Konu sayısı: 30
+Accuracy: 0.861
+
+Konu Dağılımı:
+konu
+Temel Kavramlar              40
+Üslü Sayılar                 35
+Denklem Çözme                35
+Köklü Sayılar                35
+Hız Problemleri              35
+Sayısal Mantık               35
+Rasyonel Sayılar             30
+Asal Sayılar                 30
+Basit Eşitsizlikler          30
+Mutlak Değer                 30
+Çarpanlara Ayırma            30
+Kümeler                      30
+Sayı Basamakları             30
+Bölme ve Bölünebilme         30
+İşlem                        30
+Fonksiyon                    30
+Modüler Aritmetik            30
+Permütasyon                  30
+Sayı Problemleri             30
+Kesir Problemleri            30
+Kombinasyon                  30
+Olasılık                     30
+Yaş Problemleri              30
+İşçi-Havuz Problemleri       30
+Kar-Zarar Problemleri        30
+Yüzde Problemleri            30
+Tablo-Grafik Problemleri     30
+Karışım Problemleri          30
+Hareket Problemleri          30
+Tablo ve Grafik Yorumlama    30
+Name: count, dtype: int64
+
+Classification Report:
+                           precision    recall  f1-score   support
+
+             Asal Sayılar       1.00      0.83      0.91         6
+      Basit Eşitsizlikler       1.00      1.00      1.00         6
+     Bölme ve Bölünebilme       0.83      0.83      0.83         6
+            Denklem Çözme       0.88      1.00      0.93         7
+                Fonksiyon       1.00      0.83      0.91         6
+      Hareket Problemleri       0.80      0.67      0.73         6
+          Hız Problemleri       0.75      0.86      0.80         7
+    Kar-Zarar Problemleri       0.86      1.00      0.92         6
+      Karışım Problemleri       1.00      0.83      0.91         6
+        Kesir Problemleri       1.00      0.67      0.80         6
+              Kombinasyon       1.00      0.67      0.80         6
+            Köklü Sayılar       1.00      1.00      1.00         7
+                  Kümeler       1.00      1.00      1.00         6
+        Modüler Aritmetik       0.71      0.83      0.77         6
+             Mutlak Değer       1.00      0.83      0.91         6
+                 Olasılık       1.00      1.00      1.00         6
+              Permütasyon       0.75      1.00      0.86         6
+         Rasyonel Sayılar       1.00      0.67      0.80         6
+         Sayı Basamakları       1.00      1.00      1.00         6
+         Sayı Problemleri       1.00      0.67      0.80         6
+           Sayısal Mantık       1.00      0.86      0.92         7
+Tablo ve Grafik Yorumlama       0.50      0.50      0.50         6
+ Tablo-Grafik Problemleri       0.43      0.50      0.46         6
+          Temel Kavramlar       0.67      1.00      0.80         8
+          Yaş Problemleri       1.00      1.00      1.00         6
+        Yüzde Problemleri       0.50      0.67      0.57         6
+        Çarpanlara Ayırma       0.86      1.00      0.92         6
+             Üslü Sayılar       1.00      1.00      1.00         7
+                    İşlem       1.00      1.00      1.00         6
+   İşçi-Havuz Problemleri       1.00      1.00      1.00         6
+
+                 accuracy                           0.86       187
+                macro avg       0.88      0.86      0.86       187
+             weighted avg       0.88      0.86      0.86       187

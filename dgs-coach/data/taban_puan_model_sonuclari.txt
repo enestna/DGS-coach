@@ -1,0 +1,26 @@
+DGS 2026 Taban Puan ve Kontenjan Tahmin Modeli
+============================================================
+
+Toplam temiz veri sayısı: 30904
+Tahmin yapılan program sayısı: 9068
+
+Model yöntemi:
+Her program kodu için yıllara göre lineer trend analizi yapılmıştır.
+En az 3 yıllık verisi olan programlarda 2026 tahmini trend ile hesaplanmıştır.
+Verisi az olan programlarda son yıl değeri referans alınmıştır.
+Bu yöntemde veri sızıntısı yoktur.
+
+Taban Puan Trend Modeli Sonuçları
+----------------------------------------
+MAE: 13.228
+MSE: 359.516
+R2: 0.797
+
+Kontenjan Trend Modeli Sonuçları
+----------------------------------------
+MAE: 8.979
+MSE: 22543.591
+R2: -0.001
+
+Çıktı dosyası:
+../data/dgs_2026_taban_kontenjan_tahminleri.csv
